@@ -91,8 +91,8 @@ Pagination & infinite scroll
 Improve AI recommendation accuracy
 
 👨‍💻 Author
-Sumrit Singh
-Frontend Developer (React, JavaScript, Tailwind CSS)
+Rahul Nalla
+Full-Stack Developer (React, JavaScript, Tailwind CSS)
 
 📜 License
 This project is created for learning and educational purposes only.
